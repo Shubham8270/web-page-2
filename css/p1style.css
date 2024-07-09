@@ -402,8 +402,8 @@ tr {
   
   .edit-box button {
     padding: 5px 10px;
-    background-color: #4CAF50;
-    color: #fff;
+    color:black;
+    border: solid;
     border: none;
     border-radius: 5px;
     cursor: pointer;
